@@ -43,25 +43,4 @@ The destinations are then ranked based on their total score.
 
 ## 🔄 Application Workflow
 
-User Preferences
- 
-       ↓
-Destination Knowledge Base
-
-       ↓
-Rule-Based AI Engine
-
-       ↓
-Destination Filtering
-
-       ↓
-Score Calculation
-
-       ↓
-Destination Ranking
-
-       ↓
-Top 3 Recommendations
-
-       ↓
-Itinerary + Comparison + Budget Breakdown
+User Preferences -> Destination Knowledge Base -> Rule-Based AI Engine -> Destination Filtering -> Score Calculation -> Destination Ranking -> Top 3 Recommendations -> Itinerary + Comparison + Budget Breakdown
